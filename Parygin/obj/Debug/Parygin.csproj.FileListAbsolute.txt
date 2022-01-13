@@ -1,0 +1,12 @@
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\bin\Debug\Parygin.exe.config
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\bin\Debug\Parygin.exe
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\bin\Debug\Parygin.pdb
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.csproj.AssemblyReference.cache
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.Form1.resources
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.Properties.Resources.resources
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.csproj.GenerateResource.cache
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.csproj.CoreCompileInputs.cache
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.exe
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.pdb
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.Form2.resources
+C:\Users\ЛЕШИЙ\Desktop\Parygin\Parygin\Parygin\obj\Debug\Parygin.Form3.resources
